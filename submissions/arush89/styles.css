@@ -1,0 +1,25 @@
+h1{
+    color:green;
+    font-family:Helvetica ;
+    font-size: 60px;
+}
+body{
+    background-color:#E0FFFF;
+}
+*{
+    h3
+    font-family:Helvetica;
+}
+img{
+    margin: auto;
+    display: block;
+}
+ul{
+    background-color:#90EE90 ;
+}
+p{
+    background-color:#90EE90;
+}
+img{
+    background-color:#90EE90; 
+}
